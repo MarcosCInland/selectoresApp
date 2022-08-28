@@ -17,3 +17,8 @@ export interface SPA {
     official: string;
     common:   string;
 }
+
+export interface PaisPorCodigo{
+    name: Name;
+    borders: string[]
+}
